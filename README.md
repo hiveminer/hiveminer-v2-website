@@ -1,1 +1,0 @@
-# hiveminer-v2-website
